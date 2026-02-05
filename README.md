@@ -1,4 +1,7 @@
-Qt 6 Framework is required for the app to run. This script has only been tested on KDE Plasma 6.5 Wayland
+Qt 6 Framework is required for the app to run. This script has only been tested on KDE Plasma 6.5 Wayland and Cosmic DE.
+
+Enable sticky windows for snow to snow on top of windows in Cosmic.
+
 Install python and pip and run
 
 $ pip install PySide6
