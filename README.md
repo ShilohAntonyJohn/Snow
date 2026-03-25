@@ -34,8 +34,8 @@ Navigate to the project directory and execute:
 
 ❄️ Pro-Tips for the Best Experience
 
-KDE Plasma Users: To have snow fall over your active windows, right-click the Christmas tree icon and select Fullscreen Mode from the top bar/window rules.
+* KDE Plasma Users: To have snow fall over your active windows, right-click the Christmas tree icon and select Fullscreen Mode from the top bar/window rules.
 
-COSMIC Users: Enable Sticky Windows in your settings to ensure the snow effect stays layered on top of your workspace.
+* COSMIC Users: Enable Sticky Windows in your settings to ensure the snow effect stays layered on top of your workspace.
 
 See it in Action: Check out the demo on X/Twitter: https://x.com/ShilohAJohn/status/2001232432734069119
