@@ -4,11 +4,12 @@ Enable sticky windows for snow to snow on top of windows in Cosmic.
 
 Install python and pip and run
 
-$ pip install PySide6
+'pip install PySide6'
 
+'git clone 
 After navigating to the directory of snow, run it with 
 
-$ python snow.py
+'python snow.py'
 
 Make the app fullscreen for it to snow over windows. You can do this by selecting fullscreen mode in top bar in KDE. Right click Christmas tree icon(the app)
 
