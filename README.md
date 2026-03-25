@@ -7,9 +7,11 @@ In the rush of modern life and flat, gray UI, we've forgotten the beauty of a si
 
 This application is built using the Qt 6 Framework and is optimized for modern Linux environments.
 
-Tested Environments: * KDE Plasma 6.5 (Wayland)
+Tested Environments: 
 
-COSMIC DE
+* KDE Plasma 6.5 (Wayland)
+
+* COSMIC DE
 
 Dependencies: Python 3, pip, and PySide6.
 
